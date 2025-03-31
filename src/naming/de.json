@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "name": "Name",
+    "email": "E-Mail",
+    "send": "Senden"
+  },
+  "messages": {
+    "success": "Nachricht erfolgreich gesendet!",
+    "error": "Ein Fehler ist aufgetreten."
+  },
+  "infos": {
+    "aboutTitle": "Über mich"
+  }
+}
