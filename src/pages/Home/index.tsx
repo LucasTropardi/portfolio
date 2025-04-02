@@ -1,11 +1,18 @@
-import { useNaming } from "../../naming/NamingContext";
+import { HomeContainer, Intro, Highlight } from './styles';
+import { useNaming } from '../../naming/NamingContext';
 
 export function Home() {
-  const { getField } = useNaming();
+  const { getInfo } = useNaming();
+
   return (
-    <div>
-      <h1>{getField('inicio')}</h1>
-      <p>Welcome to the Home page!</p>
-    </div>
+    <HomeContainer>
+      <Intro>
+        <h1>
+          {getInfo('homeGreeting')} <Highlight>Lucas Tropardi</Highlight>
+        </h1>
+        <p>{getInfo('homeDescription')}</p>
+        <p>{getInfo('homeStack')}</p>
+      </Intro>
+    </HomeContainer>
   );
 }

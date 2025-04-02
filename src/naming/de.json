@@ -15,6 +15,13 @@
     "direitos-reservados": "Alle Rechte vorbehalten."
   },
   "infos": {
-    "aboutTitle": "Über mich"
+    "aboutTitle": "Über mich",
+    "homeGreeting": "Hallo, ich bin",
+    "homeDescription": "Full-Stack-Entwickler, der leidenschaftlich daran interessiert ist, effiziente Lösungen zu entwickeln, die auf Leistung und Benutzererfahrung ausgerichtet sind.",
+    "homeStack": "Ich arbeite mit Technologien wie Java, Spring Boot, React, TypeScript und NodeJS und NestJS.",
+    "aboutIntro": "Meine Reise in die Technologie begann mit einem Abschluss in Computertechnik an der UNIVESP, wo ich eine solide Grundlage in Programmierung und Problemlösung entwickelte. Ich habe Erfahrung in der Entwicklung von Webanwendungen mit Java, Spring Boot, React, TypeScript und anderen Technologien.",
+    "aboutCurrentJob": "Derzeit arbeite ich als Full Stack Software Engineer bei BMG Tecnologia und entwickle Systeme für Unternehmensoperationen und -management.",
+    "aboutTech": "Ich glaube an sauberen Code, der sich auf Leistung, Benutzerfreundlichkeit und Sicherheit konzentriert. Ich suche immer nach Lern- und Kooperationsmöglichkeiten, um meine Fähigkeiten zu verbessern und zum Erfolg meines Teams beizutragen.",
+    "aboutSkillsTitle": "Haupttechnologien"
   }
 }
