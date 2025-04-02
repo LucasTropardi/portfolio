@@ -2,11 +2,17 @@
   "fields": {
     "name": "Name",
     "email": "E-Mail",
-    "send": "Senden"
+    "send": "Senden",
+    "inicio": "Startseite",
+    "sobre": "Über mich",
+    "projetos": "Projekte",
+    "contato": "Kontakt",
+    "title-portfolio": "Mein Portfolio"
   },
   "messages": {
     "success": "Nachricht erfolgreich gesendet!",
-    "error": "Ein Fehler ist aufgetreten."
+    "error": "Ein Fehler ist aufgetreten.",
+    "direitos-reservados": "Alle Rechte vorbehalten."
   },
   "infos": {
     "aboutTitle": "Über mich"
