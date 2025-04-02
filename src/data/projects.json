@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "pt": "Kd meu Pet?",
+      "en": "Kd meu Pet?",
+      "es": "Kd meu Pet?",
+      "de": "Kd meu Pet?"
+    },
+    "description": {
+      "pt": "Aplicação web publicação de animais achados e perdidos, como trabalho de conclusão de curso.",
+      "en": "Web application for posting found and lost animals, as a final project.",
+      "es": "Aplicación web para publicar animales encontrados y perdidos, como proyecto final.",
+      "de": "Webanwendung zur Veröffentlichung von gefundenen und verlorenen Tieren, als Abschlussprojekt."
+    },
+    "image": "/assets/projects/1.webp",
+    "technologies": ["Php", "JavaScript", "MySql"],
+    "repo": "https://www.youtube.com/watch?v=grbDn6f82TI"
+  },
+  {
+    "id": 2,
+    "title": {
+      "pt": "Kd meu Pet? - Laravel",
+      "en": "Kd meu Pet? - Laravel",
+      "es": "Kd meu Pet? - Laravel",
+      "de": "Kd meu Pet? - Laravel"
+    },
+    "description": {
+      "pt": "Versão do site kdmeupetplis.com.br com Laravel, para manter o site no ar após o término do curso em que foi desenvolvido.",
+      "en": "Version of the site kdmeupetplis.com.br with Laravel, to keep the site running after the end of the course in which it was developed.",
+      "es": "Versión del sitio kdmeupetplis.com.br con Laravel, para mantener el sitio en funcionamiento después del final del curso en el que se desarrolló.",
+      "de": "Version der Website kdmeupetplis.com.br mit Laravel, um die Website nach dem Ende des Kurses, in dem sie entwickelt wurde, am Laufen zu halten."
+    },
+    "image": "/assets/projects/2.webp",
+    "technologies": ["Laravel", "Blade", "JavaScript"],
+    "repo": "https://github.com/LucasTropardi/kdmeupet-laravel"
+  },
+  {
+    "id": 3,
+    "title": {
+      "pt": "Kd meu Pet? - Livewire",
+      "en": "Kd meu Pet? - Livewire",
+      "es": "Kd meu Pet? - Livewire",
+      "de": "Kd meu Pet? - Livewire"
+    },
+    "description": {
+      "pt": "Última versão do site kdmeupetplis.com.br com Livewire, sendo encerrada sua hospedagem em abril de 2024.",
+      "en": "Last version of the site kdmeupetplis.com.br with Livewire, hosting ending in April 2024.",
+      "es": "Última versión del sitio kdmeupetplis.com.br con Livewire, finalizando su hospedaje en abril de 2024.",
+      "de": "Letzte Version der Website kdmeupetplis.com.br mit Livewire, Hosting endet im April 2024."
+    },
+    "image": "/assets/projects/3.webp",
+    "technologies": ["Laravel", "Livewire", "JavaScript"],
+    "repo": "https://github.com/LucasTropardi/kdmeupet-livewire"
+  },
+  {
+    "id": 4,
+    "title": {
+      "pt": "Cosmic Connect",
+      "en": "Cosmic Connect",
+      "es": "Conexão Cósmica",
+      "de": "Kosmische Verbindung"
+    },
+    "description": {
+      "pt": "Tela inicial de uma página para amantes da astronomia.",
+      "en": "Initial screen of a page for astronomy lovers.",
+      "es": "Pantalla inicial de una página para amantes de la astronomía.",
+      "de": "Startbildschirm einer Seite für Astronomie-Liebhaber."
+    },
+    "image": "/assets/projects/4.webp",
+    "technologies": ["React", "JavaScript", "CSS"],
+    "repo": "https://github.com/LucasTropardi/cosmic-connect"
+  },
+  {
+    "id": 5,
+    "title": {
+      "pt": "BarberVoll",
+      "en": "BarberVoll",
+      "es": "BarberVoll",
+      "de": "BarberVoll"
+    },
+    "description": {
+      "pt": "REST API para um sistema de agendamento de barbearia, com autenticação, autorização e algumas regras de negócio.",	
+      "en": "REST API for a barbershop scheduling system, with authentication, authorization, and some business rules.",
+      "es": "API REST para un sistema de programación de barbería, con autenticación, autorización y algunas reglas de negocio.",
+      "de": "REST-API für ein Friseursystem mit Terminplanung, Authentifizierung, Autorisierung und einigen Geschäftsregeln."
+    },
+    "image": "/assets/projects/5.webp",
+    "technologies": ["Spring-boot", "Java", "JWT", "MySQL"],
+    "repo": "https://github.com/LucasTropardi/barber.voll"
+  },
+  {
+    "id": 6,
+    "title": {
+      "pt": "TodoList Hilla",
+      "en": "TodoList Hilla",
+      "es": "Lista de Tarefas Hilla",
+      "de": "Todo-Liste Hilla"
+    },
+    "description": {
+      "pt": "Desafio proposto pela Rocketseat para criar uma lista de tarefas com React",
+      "en": "Challenge proposed by Rocketseat to create a task list with React.",
+      "es": "Desafío propuesto por Rocketseat para crear una lista de tareas con React.",
+      "de": "Herausforderung von Rocketseat, eine Aufgabenliste mit React zu erstellen."
+    },
+    "image": "/assets/projects/6.webp",
+    "technologies": ["React", "Spring-boot", "TypeScript", "Java"],
+    "repo": "https://github.com/LucasTropardi/challenge1reactjs"
+  }
+]

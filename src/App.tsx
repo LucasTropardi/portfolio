@@ -12,14 +12,14 @@ export function App() {
   return (
     <>
       <Header />
-      <Container>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/sobre" element={<About />} />
-          <Route path="/projetos" element={<Projects />} />
-          <Route path="/contato" element={<Contact />} />
-        </Routes>
-      </Container>
+        <Container>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/sobre" element={<About />} />
+            <Route path="/projetos" element={<Projects />} />
+            <Route path="/contato" element={<Contact />} />
+          </Routes>
+        </Container>
       <Footer />
     </>
   );
